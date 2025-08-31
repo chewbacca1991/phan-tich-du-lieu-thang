@@ -12,4 +12,6 @@ setup(
         'matplotlib',
         'reportlab',
     ],
+    author='Your Name',  # Add your name as the package author
+    description='A package for monthly data analysis'  # Provide a short description of the package
 )
