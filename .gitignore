@@ -7,3 +7,9 @@ __pycache__/
 instance/
 .env  # Local environment configuration file
 .env.local  # Local overrides for environment variables
+
+# Additional ignore rules
+# Ignore log files
+*.log
+# Ignore temporary files
+*.tmp
