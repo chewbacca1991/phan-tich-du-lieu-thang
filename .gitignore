@@ -5,5 +5,5 @@ __pycache__/
 
 # Ignore instance files and environment configuration
 instance/
-.env
-.env.local
+.env  # Local environment configuration file
+.env.local  # Local overrides for environment variables
